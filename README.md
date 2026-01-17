@@ -1,6 +1,6 @@
 # Case Study: Digital Transformation for a Retail Business
 
-**Client:** [Client Name]  
+**Client:** Muhammad Usman 
 **Industry:** Retail / Imported Goods  
 **Project Type:** E-commerce & Digital Marketing Implementation
 
@@ -49,7 +49,6 @@ The client primarily operated through a physical shop and phone orders but wante
 - Implemented **Meta ads campaigns** to target potential customers on Facebook and Instagram.
 - Set up analytics to track performance and engagement across the website and social media.
 
-*Suggested Screenshot:* Homepage or category page with improved visuals.
 
 ---
 
@@ -60,7 +59,7 @@ The client primarily operated through a physical shop and phone orders but wante
 - **Better Customer Engagement:** Tracking with analytics allowed for data-driven marketing decisions.
 - **Streamlined Operations:** Orders from online and offline channels were efficiently managed.
 
-*Suggested Screenshot:* Analytics dashboard showing growth in sales, website traffic, and ad performance.
+
 
 ---
 
