@@ -1,6 +1,6 @@
 # Case Study: Digital Transformation for a Retail Business
 
-**Client:** Muhammad Usman 
+**Client:** [Client Name]  
 **Industry:** Retail / Imported Goods  
 **Project Type:** E-commerce & Digital Marketing Implementation
 
@@ -26,6 +26,18 @@ The client primarily operated through a physical shop and phone orders but wante
    - Existing product images were inconsistent and unprofessional.  
    - **Solution:** Enhanced images using AI tools to create high-quality visuals for the platform.
 
+<table>
+  <tr>
+    <td><b>Before</b><br>
+    <img src="https://raw.githubusercontent.com/iqrabatool1/Digital-Transformation-Case-Study-for-Retail-Online-Marketing/main/WhatsApp%20Image%202025-12-14%20at%204.31.33%20PM.jpeg" width="300"></td>
+    
+    <td><b>After</b><br>
+    <img src="https://raw.githubusercontent.com/iqrabatool1/Digital-Transformation-Case-Study-for-Retail-Online-Marketing/main/new.jpeg" width="300"></td>
+  </tr>
+</table>
+
+> **Note:** I converted `new.webp` to `new.jpeg` for GitHub compatibility.
+
 3. **Incomplete Product Descriptions**  
    - Many products lacked proper descriptions, affecting SEO and customer understanding.  
    - **Solution:** Wrote clear, engaging, and SEO-friendly product descriptions with relevant meta fields.
@@ -49,6 +61,7 @@ The client primarily operated through a physical shop and phone orders but wante
 - Implemented **Meta ads campaigns** to target potential customers on Facebook and Instagram.
 - Set up analytics to track performance and engagement across the website and social media.
 
+*Suggested Screenshot:* Homepage or category page with improved visuals.
 
 ---
 
@@ -59,7 +72,7 @@ The client primarily operated through a physical shop and phone orders but wante
 - **Better Customer Engagement:** Tracking with analytics allowed for data-driven marketing decisions.
 - **Streamlined Operations:** Orders from online and offline channels were efficiently managed.
 
-
+*Suggested Screenshot:* Analytics dashboard showing growth in sales, website traffic, and ad performance.
 
 ---
 
